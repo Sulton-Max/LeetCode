@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\LEETCODE\\RANDOM\\LeetCodeRandom\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
+      "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
       "projectName": "MedianOfTwoSortedArrays_4",
-      "projectPath": "D:\\source\\repos\\LEETCODE\\RANDOM\\LeetCodeRandom\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
+      "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
       "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\LEETCODE\\RANDOM\\LeetCodeRandom\\MedianOfTwoSortedArrays_4\\obj\\",
+      "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",

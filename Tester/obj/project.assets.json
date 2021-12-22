@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\Tester\\Tester.csproj",
+      "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Tester\\Tester.csproj",
       "projectName": "Tester",
-      "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\Tester\\Tester.csproj",
+      "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Tester\\Tester.csproj",
       "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-      "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\Tester\\obj\\",
+      "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Tester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,11 +69,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj"
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj"
             },
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\MaximalSquare_221\\MaximalSquare_221.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\MaximalSquare_221\\MaximalSquare_221.csproj"
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj"
             }
           }
         }

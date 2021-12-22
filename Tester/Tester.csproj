@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AddTwoNumbers_2\AddTwoNumbers_2.csproj" />
+    <ProjectReference Include="..\MaximalSquare_221\MaximalSquare_221.csproj" />
+  </ItemGroup>
+
+</Project>

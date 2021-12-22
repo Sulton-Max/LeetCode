@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\MaximalSquare_221\\MaximalSquare_221.csproj",
+      "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj",
       "projectName": "MaximalSquare_221",
-      "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\MaximalSquare_221\\MaximalSquare_221.csproj",
+      "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj",
       "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-      "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\MaximalSquare_221\\obj\\",
+      "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
