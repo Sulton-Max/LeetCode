@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f549c9d-afe1-4f8f-910e-f8d343cd111d": {
+      "ProjectGuid": "0f549c9d-afe1-4f8f-910e-f8d343cd111d",
+      "DisplayName": "LeetCodeRandom",
+      "ColorIndex": 0
+    },
+    "d166d8b9-88df-4c47-b8ed-3e60b88f457f": {
+      "ProjectGuid": "d166d8b9-88df-4c47-b8ed-3e60b88f457f",
+      "DisplayName": "MaximalSquare_221",
+      "ColorIndex": 1
+    },
+    "dce0417b-db07-4aef-b401-1da1e19cc930": {
+      "ProjectGuid": "dce0417b-db07-4aef-b401-1da1e19cc930",
+      "DisplayName": "MaximalSquare_221",
+      "ColorIndex": 2
+    },
+    "660127d4-b91b-4ea6-a6b6-8ca1b7734017": {
+      "ProjectGuid": "660127d4-b91b-4ea6-a6b6-8ca1b7734017",
+      "DisplayName": "Tester",
+      "ColorIndex": 3
+    },
+    "24a569bf-bd67-481a-9dfc-91248f8a6ec3": {
+      "ProjectGuid": "24a569bf-bd67-481a-9dfc-91248f8a6ec3",
+      "DisplayName": "AddTwoNumbers_2",
+      "ColorIndex": 4
+    },
+    "db2b96ef-3e1f-49a2-9b80-4708f24eca23": {
+      "ProjectGuid": "db2b96ef-3e1f-49a2-9b80-4708f24eca23",
+      "DisplayName": "MedianOfTwoSortedArrays_4",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

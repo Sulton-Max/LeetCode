@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3LIGEQ/M3+HELYe+TURwSdS9rDSAM6fh0ro0NIHMY9dAV6Ufkap7xKDehQA1YTPVcC9orKAN0koe6qhrj0qLg==",
+  "success": true,
+  "projectFilePath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCodeRandom\\Tester\\Tester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

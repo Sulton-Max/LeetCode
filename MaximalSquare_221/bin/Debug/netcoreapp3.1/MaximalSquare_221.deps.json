@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaximalSquare_221/1.0.0": {
+        "runtime": {
+          "MaximalSquare_221.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaximalSquare_221/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
