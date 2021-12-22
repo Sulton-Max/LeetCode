@@ -21,6 +21,16 @@
         "runtime": {
           "bin/placeholder/MaximalSquare_221.dll": {}
         }
+      },
+      "MedianOfTwoSortedArrays_4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MedianOfTwoSortedArrays_4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MedianOfTwoSortedArrays_4.dll": {}
+        }
       }
     }
   },
@@ -34,12 +44,18 @@
       "type": "project",
       "path": "../MaximalSquare_221/MaximalSquare_221.csproj",
       "msbuildProject": "../MaximalSquare_221/MaximalSquare_221.csproj"
+    },
+    "MedianOfTwoSortedArrays_4/1.0.0": {
+      "type": "project",
+      "path": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj",
+      "msbuildProject": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AddTwoNumbers_2 >= 1.0.0",
-      "MaximalSquare_221 >= 1.0.0"
+      "MaximalSquare_221 >= 1.0.0",
+      "MedianOfTwoSortedArrays_4 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -74,6 +90,9 @@
             },
             "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj": {
               "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj"
+            },
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj"
             }
           }
         }

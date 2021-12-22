@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\AddTwoNumbers_2\AddTwoNumbers_2.csproj" />
     <ProjectReference Include="..\MaximalSquare_221\MaximalSquare_221.csproj" />
+    <ProjectReference Include="..\MedianOfTwoSortedArrays_4\MedianOfTwoSortedArrays_4.csproj" />
   </ItemGroup>
 
 </Project>

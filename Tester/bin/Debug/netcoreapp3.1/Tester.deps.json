@@ -9,7 +9,8 @@
       "Tester/1.0.0": {
         "dependencies": {
           "AddTwoNumbers_2": "1.0.0",
-          "MaximalSquare_221": "1.0.0"
+          "MaximalSquare_221": "1.0.0",
+          "MedianOfTwoSortedArrays_4": "1.0.0"
         },
         "runtime": {
           "Tester.dll": {}
@@ -23,6 +24,11 @@
       "MaximalSquare_221/1.0.0": {
         "runtime": {
           "MaximalSquare_221.dll": {}
+        }
+      },
+      "MedianOfTwoSortedArrays_4/1.0.0": {
+        "runtime": {
+          "MedianOfTwoSortedArrays_4.dll": {}
         }
       }
     }
@@ -39,6 +45,11 @@
       "sha512": ""
     },
     "MaximalSquare_221/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedianOfTwoSortedArrays_4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,14 +1,9 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "Miscellaneous Files",
-      "ColorIndex": -1
-    },
-    "0001cca3-83e1-4d67-a661-dcd853329298": {
-      "ProjectGuid": "0001cca3-83e1-4d67-a661-dcd853329298",
-      "DisplayName": "MaximalSquare_221",
+    "0943ea2a-9993-4bb8-8688-4afaf7b1d613": {
+      "ProjectGuid": "0943ea2a-9993-4bb8-8688-4afaf7b1d613",
+      "DisplayName": "Tester",
       "ColorIndex": 0
     },
     "aeadb9dd-badc-4a62-b4d0-9dfb429bd0f8": {
@@ -16,11 +11,16 @@
       "DisplayName": "AddTwoNumbers_2",
       "ColorIndex": 1
     },
-    "0943ea2a-9993-4bb8-8688-4afaf7b1d613": {
-      "ProjectGuid": "0943ea2a-9993-4bb8-8688-4afaf7b1d613",
-      "DisplayName": "Tester",
+    "0001cca3-83e1-4d67-a661-dcd853329298": {
+      "ProjectGuid": "0001cca3-83e1-4d67-a661-dcd853329298",
+      "DisplayName": "MaximalSquare_221",
       "ColorIndex": 2
+    },
+    "f93f7453-e796-4b72-a94e-32d640d0f2c3": {
+      "ProjectGuid": "f93f7453-e796-4b72-a94e-32d640d0f2c3",
+      "DisplayName": "MedianOfTwoSortedArrays_4",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
