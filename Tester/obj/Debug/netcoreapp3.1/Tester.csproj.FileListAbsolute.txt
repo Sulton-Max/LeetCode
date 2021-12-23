@@ -19,3 +19,7 @@ D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\MaximalS
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.CopyComplete
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays_4.dll
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays_4.pdb
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\UniquePaths_62.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\UniquePaths_62.pdb
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\RegularExpMatching_10.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\RegularExpMatching_10.pdb

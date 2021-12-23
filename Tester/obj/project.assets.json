@@ -31,6 +31,26 @@
         "runtime": {
           "bin/placeholder/MedianOfTwoSortedArrays_4.dll": {}
         }
+      },
+      "RegularExpMatching_10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RegularExpMatching_10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegularExpMatching_10.dll": {}
+        }
+      },
+      "UniquePaths_62/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UniquePaths_62.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniquePaths_62.dll": {}
+        }
       }
     }
   },
@@ -49,13 +69,25 @@
       "type": "project",
       "path": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj",
       "msbuildProject": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj"
+    },
+    "RegularExpMatching_10/1.0.0": {
+      "type": "project",
+      "path": "../RegularExpMatching_10/RegularExpMatching_10.csproj",
+      "msbuildProject": "../RegularExpMatching_10/RegularExpMatching_10.csproj"
+    },
+    "UniquePaths_62/1.0.0": {
+      "type": "project",
+      "path": "../UniquePaths_62/UniquePaths_62.csproj",
+      "msbuildProject": "../UniquePaths_62/UniquePaths_62.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AddTwoNumbers_2 >= 1.0.0",
       "MaximalSquare_221 >= 1.0.0",
-      "MedianOfTwoSortedArrays_4 >= 1.0.0"
+      "MedianOfTwoSortedArrays_4 >= 1.0.0",
+      "RegularExpMatching_10 >= 1.0.0",
+      "UniquePaths_62 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -93,6 +125,12 @@
             },
             "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj": {
               "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj"
+            },
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj"
+            },
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj"
             }
           }
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UniquePaths_62/1.0.0": {
+        "runtime": {
+          "UniquePaths_62.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniquePaths_62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -10,7 +10,9 @@
         "dependencies": {
           "AddTwoNumbers_2": "1.0.0",
           "MaximalSquare_221": "1.0.0",
-          "MedianOfTwoSortedArrays_4": "1.0.0"
+          "MedianOfTwoSortedArrays_4": "1.0.0",
+          "RegularExpMatching_10": "1.0.0",
+          "UniquePaths_62": "1.0.0"
         },
         "runtime": {
           "Tester.dll": {}
@@ -29,6 +31,16 @@
       "MedianOfTwoSortedArrays_4/1.0.0": {
         "runtime": {
           "MedianOfTwoSortedArrays_4.dll": {}
+        }
+      },
+      "RegularExpMatching_10/1.0.0": {
+        "runtime": {
+          "RegularExpMatching_10.dll": {}
+        }
+      },
+      "UniquePaths_62/1.0.0": {
+        "runtime": {
+          "UniquePaths_62.dll": {}
         }
       }
     }
@@ -50,6 +62,16 @@
       "sha512": ""
     },
     "MedianOfTwoSortedArrays_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegularExpMatching_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniquePaths_62/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

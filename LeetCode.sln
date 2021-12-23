@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{0943EA2A-9993-4BB8-8688-4AFAF7B1D613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tester", "Tester\Tester.csproj", "{0943EA2A-9993-4BB8-8688-4AFAF7B1D613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers_2", "AddTwoNumbers_2\AddTwoNumbers_2.csproj", "{AEADB9DD-BADC-4A62-B4D0-9DFB429BD0F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoNumbers_2", "AddTwoNumbers_2\AddTwoNumbers_2.csproj", "{AEADB9DD-BADC-4A62-B4D0-9DFB429BD0F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSquare_221", "MaximalSquare_221\MaximalSquare_221.csproj", "{0001CCA3-83E1-4D67-A661-DCD853329298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSquare_221", "MaximalSquare_221\MaximalSquare_221.csproj", "{0001CCA3-83E1-4D67-A661-DCD853329298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays_4", "MedianOfTwoSortedArrays_4\MedianOfTwoSortedArrays_4.csproj", "{F93F7453-E796-4B72-A94E-32D640D0F2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedianOfTwoSortedArrays_4", "MedianOfTwoSortedArrays_4\MedianOfTwoSortedArrays_4.csproj", "{F93F7453-E796-4B72-A94E-32D640D0F2C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniquePaths_62", "UniquePaths_62\UniquePaths_62.csproj", "{0E7F3D9A-4405-46A8-A961-45A45DE5B11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpMatching_10", "RegularExpMatching_10\RegularExpMatching_10.csproj", "{B7694804-AA6B-411C-8776-81DE6BA3859E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F93F7453-E796-4B72-A94E-32D640D0F2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93F7453-E796-4B72-A94E-32D640D0F2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93F7453-E796-4B72-A94E-32D640D0F2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7F3D9A-4405-46A8-A961-45A45DE5B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7F3D9A-4405-46A8-A961-45A45DE5B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7F3D9A-4405-46A8-A961-45A45DE5B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7F3D9A-4405-46A8-A961-45A45DE5B11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7694804-AA6B-411C-8776-81DE6BA3859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7694804-AA6B-411C-8776-81DE6BA3859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7694804-AA6B-411C-8776-81DE6BA3859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7694804-AA6B-411C-8776-81DE6BA3859E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

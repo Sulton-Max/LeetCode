@@ -20,7 +20,12 @@
       "ProjectGuid": "f93f7453-e796-4b72-a94e-32d640d0f2c3",
       "DisplayName": "MedianOfTwoSortedArrays_4",
       "ColorIndex": 3
+    },
+    "0e7f3d9a-4405-46a8-a961-45a45de5b11a": {
+      "ProjectGuid": "0e7f3d9a-4405-46a8-a961-45a45de5b11a",
+      "DisplayName": "UniquePaths_62",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
