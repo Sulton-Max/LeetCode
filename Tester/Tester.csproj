@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AddTwoNumbers_2\AddTwoNumbers_2.csproj" />
+    <ProjectReference Include="..\Arrays_PathFinding\Arrays.csproj" />
+    <ProjectReference Include="..\Data_Structures\Data_Structures.csproj" />
     <ProjectReference Include="..\MaximalSquare_221\MaximalSquare_221.csproj" />
-    <ProjectReference Include="..\MedianOfTwoSortedArrays_4\MedianOfTwoSortedArrays_4.csproj" />
-    <ProjectReference Include="..\RegularExpMatching_10\RegularExpMatching_10.csproj" />
-    <ProjectReference Include="..\UniquePaths_62\UniquePaths_62.csproj" />
+    <ProjectReference Include="..\PathFinding\PathFinding.csproj" />
+    <ProjectReference Include="..\String_Ops\String_Ops.csproj" />
   </ItemGroup>
 
 </Project>

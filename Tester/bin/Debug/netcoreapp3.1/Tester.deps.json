@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": {
       "Tester/1.0.0": {
         "dependencies": {
-          "AddTwoNumbers_2": "1.0.0",
+          "Arrays": "1.0.0",
+          "Data_Structures": "1.0.0",
           "MaximalSquare_221": "1.0.0",
-          "MedianOfTwoSortedArrays_4": "1.0.0",
-          "RegularExpMatching_10": "1.0.0",
-          "UniquePaths_62": "1.0.0"
+          "PathFinding": "1.0.0",
+          "String_Ops": "1.0.0"
         },
         "runtime": {
           "Tester.dll": {}
         }
       },
-      "AddTwoNumbers_2/1.0.0": {
+      "Arrays/1.0.0": {
         "runtime": {
-          "AddTwoNumbers_2.dll": {}
+          "Arrays.dll": {}
+        }
+      },
+      "Data_Structures/1.0.0": {
+        "runtime": {
+          "Data_Structures.dll": {}
         }
       },
       "MaximalSquare_221/1.0.0": {
@@ -28,19 +33,14 @@
           "MaximalSquare_221.dll": {}
         }
       },
-      "MedianOfTwoSortedArrays_4/1.0.0": {
+      "PathFinding/1.0.0": {
         "runtime": {
-          "MedianOfTwoSortedArrays_4.dll": {}
+          "PathFinding.dll": {}
         }
       },
-      "RegularExpMatching_10/1.0.0": {
+      "String_Ops/1.0.0": {
         "runtime": {
-          "RegularExpMatching_10.dll": {}
-        }
-      },
-      "UniquePaths_62/1.0.0": {
-        "runtime": {
-          "UniquePaths_62.dll": {}
+          "String_Ops.dll": {}
         }
       }
     }
@@ -51,7 +51,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AddTwoNumbers_2/1.0.0": {
+    "Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data_Structures/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -61,17 +66,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MedianOfTwoSortedArrays_4/1.0.0": {
+    "PathFinding/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "RegularExpMatching_10/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "UniquePaths_62/1.0.0": {
+    "String_Ops/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

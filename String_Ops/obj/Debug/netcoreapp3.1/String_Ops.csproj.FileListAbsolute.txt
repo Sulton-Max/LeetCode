@@ -1,0 +1,10 @@
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\bin\Debug\netcoreapp3.1\String_Ops.deps.json
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\bin\Debug\netcoreapp3.1\String_Ops.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\bin\Debug\netcoreapp3.1\String_Ops.pdb
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.csproj.AssemblyReference.cache
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.AssemblyInfoInputs.cache
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.AssemblyInfo.cs
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.csproj.CoreCompileInputs.cache
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\String_Ops\obj\Debug\netcoreapp3.1\String_Ops.pdb

@@ -2,14 +2,24 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "AddTwoNumbers_2/1.0.0": {
+      "Arrays/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/AddTwoNumbers_2.dll": {}
+          "bin/placeholder/Arrays.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AddTwoNumbers_2.dll": {}
+          "bin/placeholder/Arrays.dll": {}
+        }
+      },
+      "Data_Structures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Data_Structures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data_Structures.dll": {}
         }
       },
       "MaximalSquare_221/1.0.0": {
@@ -22,72 +32,62 @@
           "bin/placeholder/MaximalSquare_221.dll": {}
         }
       },
-      "MedianOfTwoSortedArrays_4/1.0.0": {
+      "PathFinding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/MedianOfTwoSortedArrays_4.dll": {}
+          "bin/placeholder/PathFinding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MedianOfTwoSortedArrays_4.dll": {}
+          "bin/placeholder/PathFinding.dll": {}
         }
       },
-      "RegularExpMatching_10/1.0.0": {
+      "String_Ops/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/RegularExpMatching_10.dll": {}
+          "bin/placeholder/String_Ops.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RegularExpMatching_10.dll": {}
-        }
-      },
-      "UniquePaths_62/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/UniquePaths_62.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UniquePaths_62.dll": {}
+          "bin/placeholder/String_Ops.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AddTwoNumbers_2/1.0.0": {
+    "Arrays/1.0.0": {
       "type": "project",
-      "path": "../AddTwoNumbers_2/AddTwoNumbers_2.csproj",
-      "msbuildProject": "../AddTwoNumbers_2/AddTwoNumbers_2.csproj"
+      "path": "../Arrays_PathFinding/Arrays.csproj",
+      "msbuildProject": "../Arrays_PathFinding/Arrays.csproj"
+    },
+    "Data_Structures/1.0.0": {
+      "type": "project",
+      "path": "../Data_Structures/Data_Structures.csproj",
+      "msbuildProject": "../Data_Structures/Data_Structures.csproj"
     },
     "MaximalSquare_221/1.0.0": {
       "type": "project",
       "path": "../MaximalSquare_221/MaximalSquare_221.csproj",
       "msbuildProject": "../MaximalSquare_221/MaximalSquare_221.csproj"
     },
-    "MedianOfTwoSortedArrays_4/1.0.0": {
+    "PathFinding/1.0.0": {
       "type": "project",
-      "path": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj",
-      "msbuildProject": "../MedianOfTwoSortedArrays_4/MedianOfTwoSortedArrays_4.csproj"
+      "path": "../PathFinding/PathFinding.csproj",
+      "msbuildProject": "../PathFinding/PathFinding.csproj"
     },
-    "RegularExpMatching_10/1.0.0": {
+    "String_Ops/1.0.0": {
       "type": "project",
-      "path": "../RegularExpMatching_10/RegularExpMatching_10.csproj",
-      "msbuildProject": "../RegularExpMatching_10/RegularExpMatching_10.csproj"
-    },
-    "UniquePaths_62/1.0.0": {
-      "type": "project",
-      "path": "../UniquePaths_62/UniquePaths_62.csproj",
-      "msbuildProject": "../UniquePaths_62/UniquePaths_62.csproj"
+      "path": "../String_Ops/String_Ops.csproj",
+      "msbuildProject": "../String_Ops/String_Ops.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AddTwoNumbers_2 >= 1.0.0",
+      "Arrays >= 1.0.0",
+      "Data_Structures >= 1.0.0",
       "MaximalSquare_221 >= 1.0.0",
-      "MedianOfTwoSortedArrays_4 >= 1.0.0",
-      "RegularExpMatching_10 >= 1.0.0",
-      "UniquePaths_62 >= 1.0.0"
+      "PathFinding >= 1.0.0",
+      "String_Ops >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -117,20 +117,20 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj"
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj"
+            },
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj"
             },
             "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj": {
               "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj"
             },
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj"
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj"
             },
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj"
-            },
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj"
+            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj": {
+              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj"
             }
           }
         }

@@ -4,14 +4,68 @@
     "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Tester\\Tester.csproj": {}
   },
   "projects": {
-    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj": {
+    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj",
-        "projectName": "AddTwoNumbers_2",
-        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj",
+        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj",
         "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\obj\\",
+        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj",
+        "projectName": "Data_Structures",
+        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj",
+        "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +166,14 @@
         }
       }
     },
-    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj": {
+    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
-        "projectName": "MedianOfTwoSortedArrays_4",
-        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj",
+        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj",
+        "projectName": "PathFinding",
+        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj",
         "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\obj\\",
+        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +220,14 @@
         }
       }
     },
-    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj": {
+    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj",
-        "projectName": "RegularExpMatching_10",
-        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj",
+        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj",
+        "projectName": "String_Ops",
+        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj",
         "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\obj\\",
+        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,20 +298,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj": {
-                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\AddTwoNumbers_2\\AddTwoNumbers_2.csproj"
+              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj": {
+                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Arrays_PathFinding\\Arrays.csproj"
+              },
+              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj": {
+                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj"
               },
               "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj": {
                 "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj"
               },
-              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj": {
-                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MedianOfTwoSortedArrays_4\\MedianOfTwoSortedArrays_4.csproj"
+              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj": {
+                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj"
               },
-              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj": {
-                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\RegularExpMatching_10\\RegularExpMatching_10.csproj"
-              },
-              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj": {
-                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj"
+              "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj": {
+                "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\String_Ops\\String_Ops.csproj"
               }
             }
           }
@@ -287,60 +341,6 @@
               "version": "[3.1.22, 3.1.22]"
             }
           ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj",
-        "projectName": "UniquePaths_62",
-        "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\UniquePaths_62.csproj",
-        "packagesPath": "C:\\Users\\RSM_DEV\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\UniquePaths_62\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\RSM_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

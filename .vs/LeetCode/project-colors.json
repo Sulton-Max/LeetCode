@@ -25,7 +25,32 @@
       "ProjectGuid": "0e7f3d9a-4405-46a8-a961-45a45de5b11a",
       "DisplayName": "UniquePaths_62",
       "ColorIndex": 4
+    },
+    "b7694804-aa6b-411c-8776-81de6ba3859e": {
+      "ProjectGuid": "b7694804-aa6b-411c-8776-81de6ba3859e",
+      "DisplayName": "RegularExpMatching_10",
+      "ColorIndex": 5
+    },
+    "0e7ff56a-8581-4b1c-92bd-c5839de0b50b": {
+      "ProjectGuid": "0e7ff56a-8581-4b1c-92bd-c5839de0b50b",
+      "DisplayName": "Arrays",
+      "ColorIndex": 6
+    },
+    "1182ee03-e2bd-4328-8c00-8e4906aa20e6": {
+      "ProjectGuid": "1182ee03-e2bd-4328-8c00-8e4906aa20e6",
+      "DisplayName": "Data_Structures",
+      "ColorIndex": 7
+    },
+    "f77ba875-6807-4de1-b40b-e8eb107e157c": {
+      "ProjectGuid": "f77ba875-6807-4de1-b40b-e8eb107e157c",
+      "DisplayName": "PathFinding",
+      "ColorIndex": 8
+    },
+    "4280fb74-a57d-4d2d-b7b2-aea8058f9de0": {
+      "ProjectGuid": "4280fb74-a57d-4d2d-b7b2-aea8058f9de0",
+      "DisplayName": "String_Ops",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 10
 }
