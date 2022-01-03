@@ -22,16 +22,6 @@
           "bin/placeholder/Data_Structures.dll": {}
         }
       },
-      "MaximalSquare_221/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/MaximalSquare_221.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MaximalSquare_221.dll": {}
-        }
-      },
       "PathFinding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -65,11 +55,6 @@
       "path": "../Data_Structures/Data_Structures.csproj",
       "msbuildProject": "../Data_Structures/Data_Structures.csproj"
     },
-    "MaximalSquare_221/1.0.0": {
-      "type": "project",
-      "path": "../MaximalSquare_221/MaximalSquare_221.csproj",
-      "msbuildProject": "../MaximalSquare_221/MaximalSquare_221.csproj"
-    },
     "PathFinding/1.0.0": {
       "type": "project",
       "path": "../PathFinding/PathFinding.csproj",
@@ -85,7 +70,6 @@
     ".NETCoreApp,Version=v3.1": [
       "Arrays >= 1.0.0",
       "Data_Structures >= 1.0.0",
-      "MaximalSquare_221 >= 1.0.0",
       "PathFinding >= 1.0.0",
       "String_Ops >= 1.0.0"
     ]
@@ -122,9 +106,6 @@
             },
             "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj": {
               "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\Data_Structures\\Data_Structures.csproj"
-            },
-            "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj": {
-              "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\MaximalSquare_221\\MaximalSquare_221.csproj"
             },
             "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj": {
               "projectPath": "D:\\SOURCE\\REPOS\\LEETCODE\\RANDOM\\LeetCode\\PathFinding\\PathFinding.csproj"

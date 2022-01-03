@@ -12,8 +12,6 @@ D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.c
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.dll
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.pdb
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.genruntimeconfig.cache
-D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\MaximalSquare_221.dll
-D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\MaximalSquare_221.pdb
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.CopyComplete
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\Data_Structures.dll
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\PathFinding.dll
@@ -21,5 +19,3 @@ D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\String_O
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\Data_Structures.pdb
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\PathFinding.pdb
 D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\String_Ops.pdb
-D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\Arrays.dll
-D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Tester\bin\Debug\netcoreapp3.1\Arrays.pdb

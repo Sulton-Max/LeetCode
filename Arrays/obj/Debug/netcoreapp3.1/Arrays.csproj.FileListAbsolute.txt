@@ -1,0 +1,10 @@
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\SOURCE\REPOS\LEETCODE\RANDOM\LeetCode\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache

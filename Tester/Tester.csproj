@@ -8,7 +8,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Arrays_PathFinding\Arrays.csproj" />
     <ProjectReference Include="..\Data_Structures\Data_Structures.csproj" />
-    <ProjectReference Include="..\MaximalSquare_221\MaximalSquare_221.csproj" />
     <ProjectReference Include="..\PathFinding\PathFinding.csproj" />
     <ProjectReference Include="..\String_Ops\String_Ops.csproj" />
   </ItemGroup>

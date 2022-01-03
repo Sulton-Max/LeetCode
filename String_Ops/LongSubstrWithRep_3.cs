@@ -26,7 +26,7 @@ namespace String_Ops.LongSubstrWithRep_3
             return maxLeng;
         }
     }
-
+    
     public class Solution2
     {
         public int LengthOfLongestSubstring(string s)

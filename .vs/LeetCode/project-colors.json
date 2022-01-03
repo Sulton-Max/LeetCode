@@ -33,7 +33,7 @@
     },
     "0e7ff56a-8581-4b1c-92bd-c5839de0b50b": {
       "ProjectGuid": "0e7ff56a-8581-4b1c-92bd-c5839de0b50b",
-      "DisplayName": "Arrays",
+      "DisplayName": "Arrays2",
       "ColorIndex": 6
     },
     "1182ee03-e2bd-4328-8c00-8e4906aa20e6": {
@@ -50,7 +50,17 @@
       "ProjectGuid": "4280fb74-a57d-4d2d-b7b2-aea8058f9de0",
       "DisplayName": "String_Ops",
       "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b3ffb913-b035-400e-81d7-63feece55ca2": {
+      "ProjectGuid": "b3ffb913-b035-400e-81d7-63feece55ca2",
+      "DisplayName": "Arrays",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }

@@ -10,7 +10,6 @@
         "dependencies": {
           "Arrays": "1.0.0",
           "Data_Structures": "1.0.0",
-          "MaximalSquare_221": "1.0.0",
           "PathFinding": "1.0.0",
           "String_Ops": "1.0.0"
         },
@@ -18,19 +17,9 @@
           "Tester.dll": {}
         }
       },
-      "Arrays/1.0.0": {
-        "runtime": {
-          "Arrays.dll": {}
-        }
-      },
       "Data_Structures/1.0.0": {
         "runtime": {
           "Data_Structures.dll": {}
-        }
-      },
-      "MaximalSquare_221/1.0.0": {
-        "runtime": {
-          "MaximalSquare_221.dll": {}
         }
       },
       "PathFinding/1.0.0": {
@@ -51,17 +40,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Arrays/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Data_Structures/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MaximalSquare_221/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
